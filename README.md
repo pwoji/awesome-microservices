@@ -624,7 +624,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Node-RED](http://nodered.org/) - Visual tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 - [Pony](http://www.ponylang.org/) - Open source, object-oriented, actor-model, capabilities-secure, high performance programming language.
 
-### Resources
+## Other Resources
 
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/) - Documentation on how to build microservices from microsoft.
 
