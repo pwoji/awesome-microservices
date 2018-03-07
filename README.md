@@ -134,22 +134,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Akka.NET](http://getakka.net/) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 - [Nancy](http://nancyfx.org/) - Lightweight web framework.
 
-### D
-
-- [Vibe.d](http://vibed.org/) - Asynchronous I/O that doesn’t get in your way, written in D.
-
-### Erlang VM
-
-#### Elixir
-
-- [Phoenix](http://www.phoenixframework.org/) - Framework for building HTML5 apps, API backends and distributed systems.
-- [Plug](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules between web applications.
-
-#### Erlang
-
-- [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
-- [Mochiweb](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
-
 ### Go
 
 - [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
@@ -172,14 +156,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Sleepy](https://github.com/dougblack/sleepy) - REST for go.
 - [Vamp-router](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
 - [Zerver](https://github.com/cosiner/zerver) - RESTful API framework.
-
-### Haskell
-
-- [Scotty](https://github.com/scotty-web/scotty) - Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
-- [Servant](https://github.com/haskell-servant/servant) - Type-level web DSL.
-- [Yesod](https://github.com/yesodweb/yesod) - The Haskell RESTful web framework.
-
-### Java VM
 
 #### Clojure
 
@@ -206,17 +182,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
 - [Spring Boot](http://projects.spring.io/spring-boot/) - Makes it easy to create stand-alone, production-grade Spring based applications.
 
-#### Scala
-
-- [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala.html) - Open source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka.
-- [Colossus](https://github.com/tumblr/colossus) - I/O and microservice library for Scala.
-- [Finatra](http://twitter.github.io/finatra/) - Fast, testable, Scala HTTP services built on Twitter-Server and Finagle.
-- [Http4s](http://http4s.org/) - A minimal, idiomatic Scala interface for HTTP
-- [Play](https://www.playframework.com/) - The high velocity web framework for Java and Scala.
-- [Scalatra](http://www.scalatra.org/) - Simple, accessible and free web micro-framework.
-- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
-- [Squbs](http://paypal.github.io/squbs/) - A suite of components enabling standardization and operationalization of Akka and Akka HTTP applications/services in a large scale, managed, cloud environment.
-
 ### Node.js
 
 - [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
@@ -239,23 +204,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Steriods Framework](https://github.com/99xt/steroidslibrary) - Steroids framework simplifies the development of microservices with [Serverless](https://github.com/serverless/serverless) using TypeScript by enabling the developer to emphasize more on business/domain logic rather than focusing too much on technical details.
 - [StdLib](https://stdlib.com/) - Standard library for microservices.
 
-### Perl
-
-- [Cro](http://cro.services/) - Libraries for creating reactive distributed systems using Perl 6.
-- [Mojolicious](http://mojolicio.us/) - Next generation web framework for Perl.
-
-### PHP
-
-- [API Platform](https://api-platform.com/) - API-first web framework on top of Symfony with JSON-LD, Schema.org and Hydra support.
-- [Fat-Free](https://fatfreeframework.com/) - A powerful yet easy-to-use PHP micro-framework.
-- [Flight](https://github.com/mikecao/flight) - An extensible micro-framework.
-- [Kraken](http://kraken-php.com/) - Asynchronous and fault-tolerant PHP framework for distributed applications.
-- [Lumen](https://lumen.laravel.com/) - Stunningly fast micro-framework.
-- [Phalcon](https://phalconphp.com/) - Full-stack PHP framework delivered as a C-extension.
-- [Silex](http://silex.sensiolabs.org/) - Micro-framework based on the Symfony components.
-- [Slim](http://www.slimframework.com/) - Micro-framework that helps you quickly write simple yet powerful web applications and APIs.
-- [Upswarm](https://github.com/Zizaco/upswarm) - Multi-processed, async, fault-tolerant micro-framework for writing service-oriented applications.
-
 ### Python
 
 - [Aiohttp](http://aiohttp.readthedocs.io/en/stable/) - HTTP client/server for asyncio.
@@ -267,14 +215,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
 - [Web.py](https://github.com/webpy/webpy/) - Minimalist web framework for Python.
 - [Zappa](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
-
-### Ruby
-
-- [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
-- [Praxis](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
-- [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails as an API only.
-- [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
-- [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
 
 ## Capabilities
 
