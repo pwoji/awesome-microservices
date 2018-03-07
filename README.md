@@ -64,7 +64,6 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
-
 ## Platforms
 
 - [Cocaine](https://github.com/cocaine) - A cloud platform enabling you to build your own PaaS clouds.
